@@ -71,6 +71,7 @@
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [2235-add-two-integers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
