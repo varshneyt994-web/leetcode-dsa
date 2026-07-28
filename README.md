@@ -114,4 +114,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1114-print-in-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1114-print-in-order/) | Easy |
 <!---LeetCode Topics End-->
