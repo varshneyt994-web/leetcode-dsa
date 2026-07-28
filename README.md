@@ -70,6 +70,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
