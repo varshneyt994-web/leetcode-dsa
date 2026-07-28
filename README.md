@@ -72,6 +72,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
+| [0504-base-7](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2235-add-two-integers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
@@ -119,4 +120,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1114-print-in-order/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0504-base-7](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0504-base-7/) | Easy |
 <!---LeetCode Topics End-->
