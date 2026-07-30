@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -125,6 +127,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0504-base-7](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0504-base-7/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
