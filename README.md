@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
