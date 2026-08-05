@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -147,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -179,4 +181,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0136-single-number/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
