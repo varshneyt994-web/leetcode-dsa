@@ -30,6 +30,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,4 +192,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 <!---LeetCode Topics End-->
