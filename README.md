@@ -21,6 +21,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1089-duplicate-zeros/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -98,6 +99,7 @@
 | [0504-base-7](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
 ## Matrix
