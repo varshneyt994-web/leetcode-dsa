@@ -103,6 +103,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
