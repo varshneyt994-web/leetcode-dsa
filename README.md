@@ -17,6 +17,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0724-find-pivot-index/) | Easy |
@@ -127,6 +128,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -227,5 +229,10 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
