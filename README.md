@@ -25,6 +25,7 @@
 | [0905-sort-array-by-parity](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1089-duplicate-zeros/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
@@ -141,6 +142,7 @@
 | [0905-sort-array-by-parity](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -251,4 +253,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
+| [1051-height-checker](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
