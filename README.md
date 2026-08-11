@@ -24,6 +24,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1089-duplicate-zeros/) | Easy |
@@ -58,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -258,4 +260,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1051-height-checker/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->
