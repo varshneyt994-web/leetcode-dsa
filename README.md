@@ -42,6 +42,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -58,6 +59,7 @@
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -140,6 +142,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
