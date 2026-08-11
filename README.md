@@ -31,6 +31,7 @@
 | [1109-corporate-flight-bookings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1313-decompress-run-length-encoded-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
