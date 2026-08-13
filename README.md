@@ -49,6 +49,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3683-earliest-time-to-finish-one-task](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
