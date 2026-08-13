@@ -49,6 +49,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3697-compute-decimal-representation](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
@@ -139,6 +140,7 @@
 | [2235-add-two-integers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3697-compute-decimal-representation](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3697-compute-decimal-representation/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
