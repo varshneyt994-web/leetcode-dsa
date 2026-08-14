@@ -246,6 +246,7 @@
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Counting
@@ -280,6 +281,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3925-concatenate-array-with-reverse/) | Easy |
