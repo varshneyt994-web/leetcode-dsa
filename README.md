@@ -209,6 +209,7 @@
 | [1089-duplicate-zeros](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1089-duplicate-zeros/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +244,7 @@
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
