@@ -43,6 +43,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
@@ -168,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
