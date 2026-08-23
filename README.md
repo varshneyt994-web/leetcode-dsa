@@ -25,6 +25,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0942-di-string-match](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0942-di-string-match/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1051-height-checker/) | Easy |
@@ -217,6 +218,7 @@
 | [0633-sum-of-square-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0942-di-string-match](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1089-duplicate-zeros/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -256,6 +258,7 @@
 | [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0504-base-7/) | Easy |
+| [0942-di-string-match](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0942-di-string-match/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3110-score-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3110-score-of-a-string/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3210-find-the-encrypted-string/) | Easy |
@@ -309,6 +312,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
+| [0942-di-string-match](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0942-di-string-match/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
