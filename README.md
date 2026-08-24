@@ -69,6 +69,7 @@
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3912-valid-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3917-count-indices-with-opposite-parity](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
