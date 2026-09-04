@@ -219,6 +219,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +229,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0942-di-string-match](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0942-di-string-match/) | Easy |
