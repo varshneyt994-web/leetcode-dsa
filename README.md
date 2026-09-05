@@ -33,6 +33,7 @@
 | [1051-height-checker](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1089-duplicate-zeros/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
@@ -89,6 +90,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
