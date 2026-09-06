@@ -276,6 +276,7 @@
 | [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0504-base-7/) | Easy |
+| [0521-longest-uncommon-subsequence-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0942-di-string-match](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0942-di-string-match/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3110-score-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3110-score-of-a-string/) | Easy |
