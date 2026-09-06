@@ -54,6 +54,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -94,6 +95,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -290,6 +292,7 @@
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -306,6 +309,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0136-single-number/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
