@@ -42,6 +42,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -101,6 +102,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -213,6 +215,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
