@@ -190,6 +190,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3280-convert-date-to-binary](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -306,6 +307,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3110-score-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3110-score-of-a-string/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3210-find-the-encrypted-string/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
