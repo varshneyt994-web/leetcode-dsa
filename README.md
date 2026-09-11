@@ -196,6 +196,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3697-compute-decimal-representation/) | Easy |
 ## Matrix
@@ -309,6 +310,7 @@
 | [3210-find-the-encrypted-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3210-find-the-encrypted-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3941-password-strength](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3941-password-strength/) | Medium |
