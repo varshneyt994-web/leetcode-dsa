@@ -50,6 +50,7 @@
 | [1539-kth-missing-positive-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -274,6 +275,7 @@
 | [0724-find-pivot-index](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
