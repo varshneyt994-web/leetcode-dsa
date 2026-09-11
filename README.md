@@ -80,6 +80,7 @@
 | [3701-compute-alternating-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3912-valid-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3912-valid-elements-in-an-array/) | Easy |
@@ -225,6 +226,7 @@
 | [2465-number-of-distinct-averages](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,12 +357,14 @@
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [0942-di-string-match](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0942-di-string-match/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
