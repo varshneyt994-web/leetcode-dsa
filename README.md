@@ -96,6 +96,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -210,6 +211,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -299,6 +301,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
@@ -338,6 +341,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Design
