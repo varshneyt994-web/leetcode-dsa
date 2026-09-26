@@ -50,6 +50,7 @@
 | [1470-shuffle-the-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -289,6 +290,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,4 +430,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
