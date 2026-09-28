@@ -24,6 +24,7 @@
 | [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -109,6 +110,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0645-set-mismatch](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -228,6 +230,7 @@
 | [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -364,6 +367,7 @@
 | [0191-number-of-1-bits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0260-single-number-iii/) | Medium |
 | [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0645-set-mismatch/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Design
