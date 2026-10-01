@@ -86,6 +86,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3668-restore-finishing-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -375,6 +376,7 @@
 | [0645-set-mismatch](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0645-set-mismatch/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +391,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3925-concatenate-array-with-reverse/) | Easy |
