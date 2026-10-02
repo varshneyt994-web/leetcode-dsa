@@ -198,6 +198,7 @@
 | [0009-palindrome-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
 | [0263-ugly-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0263-ugly-number/) | Easy |
+| [0326-power-of-three](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
@@ -295,6 +296,7 @@
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
