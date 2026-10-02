@@ -198,6 +198,7 @@
 | [0009-palindrome-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
 | [0263-ugly-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0263-ugly-number/) | Easy |
+| [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0441-arranging-coins/) | Easy |
@@ -294,6 +295,7 @@
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +374,7 @@
 | [0136-single-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0260-single-number-iii/) | Medium |
+| [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0645-set-mismatch/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
