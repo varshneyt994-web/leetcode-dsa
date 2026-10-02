@@ -197,6 +197,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
@@ -296,6 +297,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
@@ -376,6 +378,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
