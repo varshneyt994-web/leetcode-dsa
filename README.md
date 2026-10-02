@@ -385,6 +385,7 @@
 | [0645-set-mismatch](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0645-set-mismatch/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Design
 | Problem Name | Difficulty |
