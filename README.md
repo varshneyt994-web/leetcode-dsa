@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0041-first-missing-positive/) | Hard |
+| [0078-subsets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0162-find-peak-element/) | Medium |
@@ -376,6 +377,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
@@ -461,4 +463,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
