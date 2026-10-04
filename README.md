@@ -16,6 +16,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -108,6 +109,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -181,6 +183,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0441-arranging-coins/) | Easy |
@@ -201,6 +204,7 @@
 | [0069-sqrtx](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0367-valid-perfect-square/) | Easy |
@@ -237,6 +241,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
@@ -385,6 +390,7 @@
 | [0191-number-of-1-bits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0645-set-mismatch/) | Easy |
