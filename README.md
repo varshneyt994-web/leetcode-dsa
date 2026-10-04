@@ -210,6 +210,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -387,6 +388,7 @@
 | [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0645-set-mismatch/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
