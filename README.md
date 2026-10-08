@@ -44,6 +44,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
