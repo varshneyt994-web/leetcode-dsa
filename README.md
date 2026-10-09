@@ -62,6 +62,7 @@
 | [1539-kth-missing-positive-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -260,6 +261,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
