@@ -228,6 +228,7 @@
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -372,6 +373,7 @@
 | [0771-jewels-and-stones](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [0942-di-string-match](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0942-di-string-match/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3110-score-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3110-score-of-a-string/) | Easy |
