@@ -99,6 +99,7 @@
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3861-minimum-capacity-box/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3912-valid-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3917-count-indices-with-opposite-parity](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
@@ -236,6 +237,7 @@
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3697-compute-decimal-representation/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
