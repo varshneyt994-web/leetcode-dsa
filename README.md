@@ -76,6 +76,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -134,6 +135,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -271,6 +273,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -352,6 +355,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +433,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -448,6 +453,7 @@
 | [0561-array-partition](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0561-array-partition/) | Easy |
 | [0942-di-string-match](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0942-di-string-match/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Counting Sort
