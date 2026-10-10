@@ -370,6 +370,7 @@
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0504-base-7/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0771-jewels-and-stones](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
 | [0942-di-string-match](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0942-di-string-match/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -431,6 +432,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0682-baseball-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
