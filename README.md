@@ -236,6 +236,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
@@ -470,6 +471,7 @@
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
