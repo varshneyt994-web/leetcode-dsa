@@ -84,6 +84,7 @@
 | [2465-number-of-distinct-averages](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -352,6 +353,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
