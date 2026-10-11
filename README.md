@@ -86,6 +86,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
@@ -451,6 +452,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Greedy
