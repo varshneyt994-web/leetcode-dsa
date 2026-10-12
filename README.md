@@ -90,6 +90,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
@@ -147,6 +148,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3668-restore-finishing-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3668-restore-finishing-order/) | Easy |
