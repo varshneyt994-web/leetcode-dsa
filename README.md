@@ -90,6 +90,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2960-count-tested-devices-after-test-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -404,6 +405,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2960-count-tested-devices-after-test-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -448,6 +450,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2960-count-tested-devices-after-test-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3701-compute-alternating-sum/) | Easy |
