@@ -89,6 +89,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
@@ -148,6 +149,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -286,6 +288,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
