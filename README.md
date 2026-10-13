@@ -88,6 +88,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -483,6 +484,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Counting Sort
