@@ -110,6 +110,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -160,6 +161,7 @@
 | [3668-restore-finishing-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3941-password-strength](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3941-password-strength/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -299,6 +301,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -468,6 +471,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3813-vowel-consonant-score/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
