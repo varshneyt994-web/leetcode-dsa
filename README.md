@@ -63,6 +63,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
