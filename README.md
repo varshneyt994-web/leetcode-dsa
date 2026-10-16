@@ -87,6 +87,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -346,6 +347,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Recursion
@@ -470,6 +472,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
