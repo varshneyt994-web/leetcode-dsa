@@ -240,6 +240,7 @@
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0504-base-7/) | Easy |
+| [0509-fibonacci-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0908-smallest-range-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0908-smallest-range-i/) | Easy |
@@ -358,6 +359,7 @@
 | [0234-palindrome-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -543,9 +545,14 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0078-subsets/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
