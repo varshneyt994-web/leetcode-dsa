@@ -117,6 +117,7 @@
 | [3745-maximize-expression-of-three-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3861-minimum-capacity-box/) | Easy |
+| [3866-first-unique-even-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3912-valid-elements-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3912-valid-elements-in-an-array/) | Easy |
@@ -167,6 +168,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3866-first-unique-even-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3866-first-unique-even-element/) | Easy |
 | [3941-password-strength](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3941-password-strength/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -433,6 +435,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3866-first-unique-even-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3866-first-unique-even-element/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
