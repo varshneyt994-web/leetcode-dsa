@@ -105,6 +105,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3668-restore-finishing-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -458,6 +459,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Design
 | Problem Name | Difficulty |
