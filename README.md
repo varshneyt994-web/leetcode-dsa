@@ -173,6 +173,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -402,6 +403,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
@@ -564,4 +566,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
