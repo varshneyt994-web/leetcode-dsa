@@ -177,6 +177,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0844-backspace-string-compare/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Tree
@@ -340,6 +341,7 @@
 | [0283-move-zeroes](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0844-backspace-string-compare](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -407,6 +409,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0771-jewels-and-stones](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0771-jewels-and-stones/) | Easy |
+| [0844-backspace-string-compare](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0844-backspace-string-compare/) | Easy |
 | [0942-di-string-match](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0942-di-string-match/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
@@ -474,6 +477,7 @@
 | [0412-fizz-buzz](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0844-backspace-string-compare/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
