@@ -181,6 +181,7 @@
 | [0844-backspace-string-compare](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0844-backspace-string-compare/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +332,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +368,7 @@
 | [0326-power-of-three](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -540,6 +543,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
