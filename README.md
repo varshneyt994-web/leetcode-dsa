@@ -237,6 +237,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
@@ -560,6 +561,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Backtracking
@@ -569,6 +571,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/varshneyt994-web/leetcode-dsa/tree/main/0509-fibonacci-number/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
